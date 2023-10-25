@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌱 I’m currently learning Flutter and Nestjs
+ 🌱 I’m currently learning  Nestjs
 
 
 # 💻 Tech Stack:
